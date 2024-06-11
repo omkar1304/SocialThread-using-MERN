@@ -27,6 +27,8 @@ const PostPage = () => {
       <Text my={3} >
         Let's talk about threads.
       </Text>
+
+       
     </>
   );
 };
